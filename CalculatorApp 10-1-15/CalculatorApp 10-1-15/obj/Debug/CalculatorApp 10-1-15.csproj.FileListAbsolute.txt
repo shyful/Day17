@@ -1,0 +1,51 @@
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\CalculatorApp 10-1-15.dll.config
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\CalculatorApp 10-1-15.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\CalculatorApp 10-1-15.pdb
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Antlr3.Runtime.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\AspNet.ScriptManager.bootstrap.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\AspNet.ScriptManager.jQuery.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\EntityFramework.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\EntityFramework.SqlServer.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.AspNet.Identity.Core.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.Cookies.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.Facebook.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.Google.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.OAuth.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.Twitter.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.ScriptManager.WebForms.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Web.Infrastructure.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Newtonsoft.Json.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Owin.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\System.Web.Optimization.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\System.Web.Providers.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\WebGrease.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\System.Web.Optimization.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Antlr3.Runtime.pdb
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Newtonsoft.Json.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\EntityFramework.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\EntityFramework.SqlServer.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.AspNet.Identity.Core.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.Facebook.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.Cookies.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.Google.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.Twitter.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\bin\Microsoft.Owin.Security.OAuth.xml
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\obj\Debug\CalculatorApp 10-1-15.csprojResolveAssemblyReference.cache
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\obj\Debug\CalculatorApp 10-1-15.dll
+H:\FTFL\ASP.NET APP\CalculatorApp 10-1-15\CalculatorApp 10-1-15\obj\Debug\CalculatorApp 10-1-15.pdb
